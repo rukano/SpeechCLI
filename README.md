@@ -24,8 +24,9 @@ Arguments
 * __-m__ [number] Voice pitch modulation, from 0 to ???
 * __-a__ [number] Volume from 0.0 to 1.0
 * __-o__ [string] Output file path
- 
+
 If the __-o__ argument is missing, the text will be spoken live, otherwise it will be rendered to the provided output file.
+The text to speak must be after the last argument.
 
 ### Default arguments ###
 
